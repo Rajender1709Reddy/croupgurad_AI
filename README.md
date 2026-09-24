@@ -457,7 +457,7 @@ This makes the system useful not only as an ML/data-science project but also as 
 
 ## 👨‍💻 Developer
 
-### **Sainikhil Chary**
+### **Rajender Reddy**
 
 B.Tech — Computer Science & Engineering (AI)
 
@@ -472,8 +472,9 @@ Interested in:
 
 ### 🔗 Links
 
-* **GitHub:** https://github.com/Rajender1709Reddy
-* **Project Repository:** https://github.com/Rajender1709Reddy/croupgurad_AI
+* **GitHub Profile:** https://github.com/Rajender1709Reddy
+* **My GitHub Repositories:** https://github.com/Rajender1709Reddy?tab=repositories
+* **This Project Repository:** https://github.com/Rajender1709Reddy/croupgurad_AI
 * **Live Project:** https://cropguard-ai-1.ai.studio/#home
 
 ---
