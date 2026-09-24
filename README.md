@@ -3,7 +3,7 @@
 > **Data-driven precision agriculture for smarter crop decisions, risk awareness, and resilient farming in Telangana.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-CropGuard%20AI-success?style=for-the-badge)](https://cropguard-ai-1.ai.studio/#home)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)](https://github.com/SAINIKHILCHARY/CropGuard_AI)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)](https://github.com/Rajender1709Reddy/croupgurad_AI)
 
 ---
 
@@ -319,7 +319,7 @@ CropGuard_AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SAINIKHILCHARY/CropGuard_AI.git
+git clone https://github.com/Rajender1709Reddy/croupgurad_AI.git
 ```
 
 ### 2. Navigate into the project
@@ -406,7 +406,7 @@ The production application is available at:
 
 The source code is available at:
 
-### 👉 [CropGuard AI — GitHub Repository](https://github.com/SAINIKHILCHARY/CropGuard_AI)
+### 👉 [CropGuard AI — GitHub Repository](https://github.com/Rajender1709Reddy/croupgurad_AI)
 
 ---
 
@@ -472,8 +472,8 @@ Interested in:
 
 ### 🔗 Links
 
-* **GitHub:** https://github.com/SAINIKHILCHARY
-* **Project Repository:** https://github.com/SAINIKHILCHARY/CropGuard_AI
+* **GitHub:** https://github.com/Rajender1709Reddy
+* **Project Repository:** https://github.com/Rajender1709Reddy/croupgurad_AI
 * **Live Project:** https://cropguard-ai-1.ai.studio/#home
 
 ---
